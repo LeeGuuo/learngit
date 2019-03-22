@@ -1,5 +1,5 @@
 it is a dog
 it is a cat
 i am a boy
-create a new branch is quick & simple
+create a new branch is quick AND simple
 
